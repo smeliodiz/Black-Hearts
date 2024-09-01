@@ -44,7 +44,7 @@ body {
     --sb-thumb-color: #850606;
     --sb-size: 1rem;
     min-height: 200vh;
-    background-image: url(/picture/Red.png);
+    background-image: url(picture/Red.png);
     background-size: cover;
     background-attachment: fixed;
 }
